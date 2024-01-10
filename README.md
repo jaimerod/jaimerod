@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+[![JaimeRod's GitHub stats](https://github-readme-stats-omega-two-74.vercel.app/api?username=jaimerod
+-->
