@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,astro,vue,js,html,css,php,py,dotnet,docker,linux,mysql,nextjs,heroku,postman,rails,raspberrypi,redux,react,sass,symfony,vercel,vscode,webpack,wordpress,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,astro,aws,css,docker,dotnet,heroku,html,js,linux,mysql,nextjs,php,postman,py,rails,raspberrypi,react,sass,symfony,vercel,vscode,vue,webpack,wordpress,xd&perline=13)](https://skillicons.dev)
 
 
 <p>
