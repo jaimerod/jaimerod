@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-[![JaimeRod's GitHub stats](https://github-readme-stats-omega-two-74.vercel.app/api?username=jaimerod
--->
+[![JaimeRods's GitHub stats](https://github-readme-stats-phi-hazel.vercel.app/api?username=jaimerod)](https://jaime.rodriguez-jr.com)
