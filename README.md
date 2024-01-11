@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![JaimeRods's GitHub stats](https://github-readme-stats-omega-indol-77.vercel.app/api?username=jaimerod)](https://jaime.rodriguez-jr.com)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,astro,vue,js,html,css,php,py,dotnet,docker,linux,mysql,nextjs,heroku,postman,rails,raspberrypi,redux,react,sass,symfony,vercel,vscode,webpack,wordpress,xd&perline=5)](https://skillicons.dev)
+
+
+<p>
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats-omega-indol-77.vercel.app/api?username=jaimerod&theme=transparent&rank_icon=githsub&show_icons=true&include_all_commits=true&count_private=true" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats-omega-indol-77.vercel.app/api/top-langs/?username=jaimerod&theme=transparent&hide=c%23,shaderlab&size_weight=0&count_weight=1&layout=compact" />&nbsp;&nbsp;
+</p>
