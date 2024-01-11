@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jaimerod/jaimerod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![JaimeRods's GitHub stats](https://github-readme-stats-phi-hazel.vercel.app/api?username=jaimerod)](https://jaime.rodriguez-jr.com)
+[![JaimeRods's GitHub stats](https://github-readme-stats-omega-indol-77.vercel.app/api?username=jaimerod)](https://jaime.rodriguez-jr.com)
